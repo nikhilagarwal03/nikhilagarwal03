@@ -1,7 +1,7 @@
 <!-- PROFILE README -->
 
 <p align="center">
-  <img src="assets/mp_.mp4" width="700" />
+  <video src="assets/mp_.mp4" width="700" controls autoplay loop muted></video>
   <br/>
   Above art is made using Gemini.
 </p>
