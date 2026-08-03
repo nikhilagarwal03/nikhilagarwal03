@@ -1,9 +1,9 @@
 <!-- PROFILE README -->
 
 <p align="center">
-  <img src="assets/mp_.mp4" width="360px" style="border-radius: 50%;" />
+  <img src="assets/image.jpg" width="700" />
   <br/>
-  Above art is made using Gemini.
+  Above art is made using <a href="https://grok.com/">Grok</a>
 </p>
 
 <br>
@@ -88,4 +88,8 @@
 
 - [My Blog on Perspective](https://medium.com/@agarwalnikhil909/perspective-the-other-side-of-the-same-story-cb7bbd53c194)
 
+<<<<<<< HEAD
 <br>
+=======
+<br>
+>>>>>>> dd3ec8ad4ad51a9794870461ab29006a056d62d7
