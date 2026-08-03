@@ -1,7 +1,7 @@
 <!-- PROFILE README -->
 
 <p align="center">
-  <img src="assets/mp_.gif" width="700" />
+  <img src="assets/image.jpg" height="400" width="700" />
   <br/>
   Above art is made using Gemini.
 </p>
