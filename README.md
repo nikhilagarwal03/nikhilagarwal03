@@ -19,13 +19,13 @@
 - 🧿&nbsp; Focused on scalable and real-world applications  
 - 🤓&nbsp; Interested in **Machine Learning and Backend Systems**  
 - 🔭 &nbsp; I’m currently working on **[CultureLens](https://github.com/nikhilagarwal03/CultureLens)**
-- 📝 &nbsp; Checkout my [resume]()
+- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1sFHvFgIvRsBRpBlrrFqBLO7CdBGQRfYP/view?usp=sharing)
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/nikhilagarwal03?tab=repositories)
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/nikhilagaarwal/)
 - ♟️ &nbsp; I sometimes play [Chess](https://www.chess.com) during my free time.
 - 🤝 &nbsp; Open to collaborations 
 - 🤠 &nbsp; Check out my [Linktree](https://linktr.ee/nikhilagaarwal)
-- 🤜 &nbsp; Connect with me on [X/Twittter](https://x.com/nikhillhere), [LinkedIn](https://linkedin.com/in/nikhilagaarwal)
+- 🤜 &nbsp; Connect with me on [X/Twittter](https://x.com/nikhillhere)
 
 
 <br>
@@ -33,8 +33,19 @@
 ### 🛠 Languages & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,js,git" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,express,mongodb,redis,git,github,vercel,linux" />
 </p>
+
+<br>
+
+<br>
+
+**TEDxSMEC** 
+
+- Was Part of TEDxSMEC and Technical core member of Organizing Commitee.
+  <a href="https://www.tedxsmec.in.net/">
+    <b>Check Out the Website.</b>
+  </a>
 
 <br>
 
